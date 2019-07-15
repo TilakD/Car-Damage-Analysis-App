@@ -15,4 +15,4 @@ Explainability:
 Deployment:
 ![Alt text](images/deployment.png?raw=true "Deployment")
 
-NOTE: This project is an extension of Ting Neo's [car-damage-detective](https://github.com/neokt/car-damage-detective)
+Credits for the concept - Ting Neo's [car-damage-detective](https://github.com/neokt/car-damage-detective)
